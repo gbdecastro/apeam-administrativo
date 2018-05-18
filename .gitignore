@@ -13,3 +13,4 @@ laravel/.env
 arquivos_protocolos/confirmacoes/*.pdf
 arquivos_protocolos/oficios/*.pdf
 estatutos/*.pdf
+laravel/composer.lock
