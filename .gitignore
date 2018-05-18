@@ -10,6 +10,6 @@ laravel/Homestead.yaml
 laravel/npm-debug.log
 laravel/yarn-error.log
 laravel/.env
-arquivos_protocolos/confirmacoes/*
-arquivos_protocolos/oficios/*
-estatutos/*
+arquivos_protocolos/confirmacoes/*.pdf
+arquivos_protocolos/oficios/*.pdf
+estatutos/*.pdf
