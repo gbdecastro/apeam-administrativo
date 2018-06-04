@@ -2,7 +2,7 @@
     <div class="login-box">
         <div class="login-box-body">
             <div class="info-box bg-blue">
-                <a href="http://apeam.16mb.com">
+                <a href="https://apeam.net.br">
                 <span class="info-box-icon">
                     <i class="fa fa-globe"></i>
                 </span>
